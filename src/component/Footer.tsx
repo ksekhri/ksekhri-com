@@ -5,7 +5,7 @@ const Footer = () => (
     © {new Date().getFullYear()} Karan Sekhri —{' '}
     <a
       className="text-sky-600 dark:text-sky-400"
-      href="https://github.com/ksekhri"
+      href="https://github.com/ksekhri/ksekhri-com"
     >
       Source
     </a>
