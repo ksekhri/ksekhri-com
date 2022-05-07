@@ -8,7 +8,7 @@ const HeaderMobile = ({ className }: { className: string }) => (
       <div className="mr-5 mt-4 inline-flex shrink-0 translate-y-3 flex-col">
         <div className="mb-2 flex">
           <img
-            className="max-w-[6rem] rounded-full"
+            className="h-[6rem] w-[6rem] max-w-none rounded-full"
             src={photo}
             alt="Karan Sekhri"
           />
