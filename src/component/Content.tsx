@@ -6,7 +6,7 @@ const Content = () => (
     <div className="mr-5 hidden md:block xl:mr-7 2xl:mr-11">
       <div className="mb-4">
         <img
-          className="max-w-[16rem] rounded-full"
+          className="h-[16rem] w-[16rem] max-w-none rounded-full"
           src={photo}
           alt="Karan Sekhri"
         />
