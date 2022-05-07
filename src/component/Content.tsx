@@ -16,8 +16,7 @@ const Content = () => (
     </div>
     <div className="text-md bg-slate-50 px-6 py-5 dark:bg-slate-600 md:ml-5 md:px-8 md:py-8 md:text-lg lg:px-10 lg:py-12 lg:text-xl xl:ml-7 xl:px-[5rem] xl:py-[4rem] xl:text-2xl 2xl:ml-11">
       <p className="mb-7">
-        Frontend Software Engineer with a strong background in leadership and
-        UX.
+        Frontend Software Engineer with a background in leadership and UX.
       </p>
       <p className="mb-7">Skilled in React, Typescript, and Tailwind.</p>
       <p>
