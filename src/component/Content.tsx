@@ -1,5 +1,5 @@
 import React from 'react'
-import photo from './karan-sekhri.jpg'
+import photo from '../assets/karan-sekhri.jpg'
 
 const Content = () => (
   <section className="mx-auto mt-6 mb-5 flex max-w-screen-xl items-center px-8 md:mt-[5rem] md:mb-[4.5rem] lg:mt-[8rem] lg:mb-[7rem] xl:mt-[10rem] xl:mb-[9rem] xl:px-4 2xl:px-0">
