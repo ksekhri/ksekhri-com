@@ -1,5 +1,5 @@
 import React from 'react'
-import photo from './karan-sekhri.jpg'
+import photo from '../../assets/karan-sekhri.jpg'
 
 const HeaderMobile = ({ className }: { className: string }) => (
   <header className={className}>
