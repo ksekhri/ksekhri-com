@@ -1,4 +1,5 @@
 import React from 'react'
+import NightSwitch from './NightSwitch'
 
 const Footer = () => (
   <footer className="mx-auto max-w-screen-xl px-10 pb-4 text-center text-sm xl:text-base">
@@ -8,7 +9,8 @@ const Footer = () => (
       href="https://github.com/ksekhri/ksekhri-com"
     >
       Source
-    </a>
+    </a>{' '}
+    — <NightSwitch />
   </footer>
 )
 

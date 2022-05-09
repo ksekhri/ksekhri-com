@@ -11,9 +11,7 @@ body {
   @apply text-slate-900;
 }
 
-@media (prefers-color-scheme: dark) {
-  body {
-    @apply bg-slate-800;
-    @apply text-slate-50;
-  }
+body.dark {
+  @apply bg-slate-800;
+  @apply text-slate-50;
 }
